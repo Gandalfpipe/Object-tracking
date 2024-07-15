@@ -1,0 +1,55 @@
+{
+    "video":"videoplayback.mp4",
+    "tracker":"meanshift",
+    "timeout":0,
+    "objects": [
+        {
+            "name": "Contruction",
+            "rect": [904, 478, 100, 69],
+            "frame": 3,
+            "color": [255, 0, 0]
+        },
+        {
+            "name": "House",
+            "rect": [910, 419, 79, 60],
+            "frame": 2,
+            "color": [0, 255, 0]
+        },
+        {
+            "name": "Tower1",
+            "rect": [1662, 638, 80, 61],
+            "frame": 8,
+            "color": [0, 0, 255]
+        },
+        {
+            "name": "Container",
+            "rect": [1101, 565, 53, 44],
+            "frame": 5,
+            "color": [0, 100, 255]
+        },
+        {
+            "name": "Billboard",
+            "rect": [288, 432, 82, 48],
+            "frame": 5,
+            "color": [100, 100, 155]
+        },
+        {
+            "name": "Tower2",
+            "rect": [981, 423, 39, 30],
+            "frame": 82,
+            "color": [200, 100, 0]
+        },
+        {
+            "name": "Bush1",
+            "rect": [1870, 565, 30, 34],
+            "frame": 45,
+            "color": [100, 100, 200]
+        },
+        {
+            "name": "Bush2",
+            "rect": [1858, 306, 61, 45],
+            "frame": 68,
+            "color": [200, 100, 100]
+        },
+    ]
+}
